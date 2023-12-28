@@ -1,18 +1,17 @@
-
-
-  .image{
-    width:50%;
-    border:5px solid white ;
-  }
-  .motivation{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-left : 50px;
-    margin-top : 100px;
-    text-align: center;
-    color: white;
-    font-family:"Libre Baskerville",serif ;
+/* Write your code here: */
+body h1,h2{
+    color : blueviolet;
+    color : blueviolet
 }
-body{
-    background-color: black;
+.box> p{
+    color:firebrick;
 }
-
+.list li{
+    color : blue ;
+}
+.box li.done{
+    color : seagreen
+}
+ul p.done{
+    font-size: 0.5rem;
+}
